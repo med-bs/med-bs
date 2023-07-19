@@ -5,7 +5,7 @@
 </div>
 <h3 align="center">Contact</h3>
 <p align="center">
-<a href="https://linkedin.com/in/medabs" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="medabs" height="" width="40" /></a> <a>&nbsp;</a> <a href="mailto:mohamedamonebnsalem@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="medabs" height="" width="40" /></a>
+<a href="https://linkedin.com/in/medabs" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="medabs" height="" width="40" /></a> <a>&nbsp;</a> <a href="mailto:mohamedamonebnsalem@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="medabs" height="" width="40" /></a>
 </p>
 
 ###

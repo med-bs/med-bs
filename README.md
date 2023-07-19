@@ -23,8 +23,11 @@
 ###
 
 <div align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=med-bs&show_icons=true&locale=en&layout=compact" alt="med-bs" height="220"/></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=med-bs&show_icons=true&locale=en" alt="med-bs" height="220"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=med-bs&show_icons=true&locale=en&layout=compact" alt="med-bs" height="200"/></p>
+</div>
+
+<div align="center">
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=med-bs&show_icons=true&locale=en" alt="med-bs" height="200"/></p>
 </div>
 
 <div align="center">

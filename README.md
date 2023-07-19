@@ -21,6 +21,7 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
+<div align="center">
 
 <div align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=med-bs&show_icons=true&locale=en&layout=compact" alt="med-bs" height="200"/></p>
@@ -32,4 +33,5 @@
 
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=med-bs&" alt="med-bs" height="220" /></p>
+</div>
 </div>
